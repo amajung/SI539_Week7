@@ -13,10 +13,13 @@ a.skip:focus{
 	border: 1px solid black;
 }
 
-/*--Font*/
 html, body {
 	font-family: Lato;
-	background-image: url('/images/IMG_2814.JPG');
+}
+
+/*--Font*/
+.background-img {
+	background-image: url('/images/neutral-background.jpg');
 }
 
 /*--Header--*/
