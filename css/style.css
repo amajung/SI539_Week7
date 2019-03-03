@@ -49,7 +49,7 @@ h1 {
 }
 
 .sidenav a.active {
-  background: grey;
+  background: #474747;
   color: white;
   border-bottom: 3px solid black;
   left: 10px;
