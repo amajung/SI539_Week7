@@ -13,14 +13,12 @@ a.skip:focus{
 	border: 1px solid black;
 }
 
+/*--Font--*/
 html, body {
 	font-family: Lato;
 }
 
-/*--Font*/
-body .background-img {
-	background-image: url('/images/neutral-background.jpg');
-}
+
 
 /*--Header--*/
 h1 {
@@ -78,7 +76,6 @@ body {
 /*--Content--*/
 main {
 	grid-column-start: 2;
-	background-image: url(/images/neutral-background.jpg);
 }
 
 .row {
