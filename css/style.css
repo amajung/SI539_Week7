@@ -18,7 +18,7 @@ html, body {
 }
 
 /*--Font*/
-.background-img {
+body .background-img {
 	background-image: url('/images/neutral-background.jpg');
 }
 
